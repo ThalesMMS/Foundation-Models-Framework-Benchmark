@@ -1,5 +1,4 @@
 # Foundation Models Framework Benchmark
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Foundation-Models-Framework-Benchmark&type=Date)](https://star-history.com/#rudrankriyam/Foundation-Models-Framework-Benchmark&Date)
 
 
 This repo measures Foundation Models performance across macOS, iOS, iPadOS, and visionOS using unit tests.
@@ -125,3 +124,5 @@ The product design is clean and modern...
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Contributions welcome!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Foundation-Models-Framework-Benchmark&type=Date)](https://star-history.com/#rudrankriyam/Foundation-Models-Framework-Benchmark&Date)
